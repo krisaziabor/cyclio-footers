@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		DC5E5CC12A5F4E7400C5148A /* footer_basic_DE.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = footer_basic_DE.html; sourceTree = "<group>"; };
+		DCA15F982A5FEAB4004C189D /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		DC5E5CB72A5F4B9900C5148A = {
 			isa = PBXGroup;
 			children = (
+				DCA15F982A5FEAB4004C189D /* styles.css */,
 				DC5E5CC12A5F4E7400C5148A /* footer_basic_DE.html */,
 			);
 			sourceTree = "<group>";
