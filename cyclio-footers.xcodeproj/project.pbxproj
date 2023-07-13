@@ -13,6 +13,8 @@
 		DCA15F9A2A601B7D004C189D /* footer_basic_EN.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = footer_basic_EN.html; sourceTree = "<group>"; };
 		DCA15F9B2A601C8A004C189D /* footer_service_DE.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = footer_service_DE.html; sourceTree = "<group>"; };
 		DCA15F9C2A601FB3004C189D /* footer_service_EN.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = footer_service_EN.html; sourceTree = "<group>"; };
+		DCA15FA12A6020CD004C189D /* footer_newsletter_EN.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = footer_newsletter_EN.html; sourceTree = "<group>"; };
+		DCA15FA22A6020DC004C189D /* footer_newsletter_DE.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = footer_newsletter_DE.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -28,6 +30,7 @@
 		DCA15F9D2A602023004C189D /* html */ = {
 			isa = PBXGroup;
 			children = (
+				DCA15FA02A6020BB004C189D /* newsletter */,
 				DCA15F9F2A60203D004C189D /* service */,
 				DCA15F9E2A602035004C189D /* basic */,
 			);
@@ -50,6 +53,15 @@
 				DCA15F9B2A601C8A004C189D /* footer_service_DE.html */,
 			);
 			path = service;
+			sourceTree = "<group>";
+		};
+		DCA15FA02A6020BB004C189D /* newsletter */ = {
+			isa = PBXGroup;
+			children = (
+				DCA15FA12A6020CD004C189D /* footer_newsletter_EN.html */,
+				DCA15FA22A6020DC004C189D /* footer_newsletter_DE.html */,
+			);
+			path = newsletter;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
