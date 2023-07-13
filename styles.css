@@ -3,4 +3,10 @@ p {
     color: white;
     font-size: 15px;
     line-height: 28px;
+    text-align: top;
+}
+
+img {
+    width: 25%;
+    height: auto;
 }
