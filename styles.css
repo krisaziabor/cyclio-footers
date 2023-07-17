@@ -1,12 +1,30 @@
+/*
+ PLEASE NOTE: THIS FILE IS ONLY FOR REFERENCE
+ IT IS NOT IMPLEMENTED IN ANY OF THE FILES
+ */
+ 
+ div {
+    width: 640px;
+    height: 310px;
+}
 p {
     font-family: 'Inter', sans-serif;
     color: white;
     font-size: 15px;
-    line-height: 28px;
+    line-height: 20px;
     text-align: top;
+    margin-bottom: 1px;
 }
 
 img {
     width: 25%;
     height: auto;
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: #030060;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 1px;
 }
