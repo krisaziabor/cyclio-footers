@@ -31,3 +31,6 @@ To use these headers, you will need to either download the HTML files or copy th
 # styles.css warning
 
 There is a styles.css file in this repository. Please note that due to Mailchimp's limits with importing code, the file has no true functionality. However, please not that it is very useful for reference. If you wish to make individual editing efforts, please note that modifying the *styles.css* file will not make any changes to any of the footers 
+
+# Demo
+For a step-by-step demo, click [here](https://app.tango.us/app/workflow/Creating-an-custom-HTML-footer-in-Mailchimp--A-Step-by-Step-Tutorial-431edc25588145bfab8a88a207666aea).
